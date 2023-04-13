@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="css.css" type="text/css" />
+    </head>
+    <body>
+        <div id="header">Stanisław III Waza</div>
+        <div id="left">
+            <a href="html.html">Home</a>
+           | <a href="podstrona1.html">Narodziny królewicza</a>
+           | <a href="podstrona2.html">Objęcie władzy w Rzeczypospolitej Obojga Narodów</a>
+           | <a href="podstrona3.html">Król Szwecji</a>
+           | <a href="podstrona4.html">Polityka wyznaniowa</a>
+           |
+        </div>
+        <div id="content">
+            Pięć lat objęciu tronu w Polsce przez Zygmunta III Wazę, w 1592, zmarł jego ojciec, Jan III, który był królem Szwecji. Zygmunt stał się formalnie królem tego kraju. Powstała wówczas personalna unia polsko-szwedzka.
+
+Zygmunt III Waza odebrał należną mu koronę Szwecji, jednak najpierw musiał zaprzysiąc zagwarantowanie praw dla luteranizmu i wyrzec się prób katolicyzacji Królestwa Trzech Koron. Po dopełnieniu tych formalności 19 lutego 1594 został wraz z żoną uroczyście koronowany w katedrze w Uppsali na króla Szwecji.
+
+Jednak przeciwna katolickiemu królowi protestancka opozycja, pod wodzą regenta ks. Karola Sudermańskiego, doprowadziła do buntu w Szwecji. Wtedy Zygmunt III Waza stanął na czele korpusu interwencyjnego. Wobec braku synchronizacji działań ze swoimi szwedzkimi sojusznikami poniósł porażkę w bitwie pod Linköping w 1598. To doprowadziło do jego detronizacji przez Riksdag w 1599.
+
+Jednocześnie sejm sztokholmski uznał syna Zygmunta III; królewicza Władysława IV Wazę, za następcę tronu. Postawiono jednak warunek, że królewicz ma przybyć do Szwecji, gdzie zostanie wychowany w religii dominującej w Szwecji, czyli luteranizmie[7].
+            
+            <img src="img4.jpg" alt="Italian Trulli">
+        </div>
+        <div id="right">
+            ---------- <p>
+        </p>
+            <a href="podstrona5.html">Imię i Nazwisko</a> <p> ----------
+
+            </p>
+            <a href="https://pl.wikipedia.org/wiki/Zygmunt_III_Waza">Wikipedia</a><p>
+            ----------
+        </p>
+        </div>
+        <div id="footer">Kacper Szympruch</div>
+    </body> 
+</html>

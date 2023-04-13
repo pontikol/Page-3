@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="css.css" type="text/css" />
+    </head>
+    <body>
+        <div id="header">Stanisław III Waza</div>
+        <div id="left">
+            <a href="html.html">Home</a>
+           | <a href="podstrona1.html">Narodziny królewicza</a>
+           | <a href="podstrona2.html">Objęcie władzy w Rzeczypospolitej Obojga Narodów</a>
+           | <a href="podstrona3.html">Król Szwecji</a>
+           | <a href="podstrona4.html">Polityka wyznaniowa</a>
+           |
+        </div>
+        </div>
+        <div id="content">
+            <form>
+                <label for="fname">Imię:</label><br>
+                <input type="text" id="fname" name="fname"><br>
+                <label for="lname">Nazwisko:</label><br>
+                <input type="text" id="lname" name="lname">
+              </form>
+            
+            
+        </div>
+       <div id="right">
+            ---------- <p>
+        </p>
+            <a href="podstrona5.html">Imię i Nazwisko</a> <p> ----------
+
+            </p>
+            <a href="https://pl.wikipedia.org/wiki/Zygmunt_III_Waza">Wikipedia</a><p>
+            ----------
+        </p>
+        </div>
+        <div id="footer">Kacper Szympruch</div>
+    </body> 
+</html>
